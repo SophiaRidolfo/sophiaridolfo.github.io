@@ -1,3 +1,3 @@
 # Sophia Ridolfo's website
 
-Made with Carrd: https://carrd.co/build?ref=auto
+Template modified from Carrd: https://carrd.co/build?ref=auto
